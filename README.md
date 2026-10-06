@@ -12,7 +12,8 @@ Work without a working video link is incomplete.
 
 For your video, you must explain your logic for these two loops. Failure to do so will result in an incomplete assignment, which is a 0.
 
-**Your demo:** _add your link here_
+**Your demo:** [screen-capture (12).webm](https://github.com/user-attachments/assets/c31ff56a-2a51-4f56-b78a-d9da344dc2ad)
+
 
 
 ## What to build
